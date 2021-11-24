@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Sobre este blog",
+      "description": "Algunos detalles + del blog",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-23T21:00:31-03:00"
+      "contents": "\r\nJUAN PABLO RUIZ NICOLINI\r\nTambién conocido como el TuQmano. Soy politólogo2 por la Universidad Torcuato Di Tella. Trabajo con datos y visualizaciones. Me gustan las elecciones. Cientista de Datos en progreso (DS).\r\nComo politólogo mis temas de investigación se concentraron en estudios electorales, partidos y reforma política. En particular, he trabajado en la evaluación del impacto político del cambio en la tecnología con la que se emiten los votos.\r\nComo DS vengo trabajando en el desarrollo de paquetes de para facilitar herramientas y el acceso a datos políticos de Argentina.\r\ntuqmano.ar | TuQmano | /tuqmano\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-11-23T21:20:41-03:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-23T21:00:34-03:00"
+      "last_modified": "2021-11-23T21:18:15-03:00"
     }
   ],
   "collections": []

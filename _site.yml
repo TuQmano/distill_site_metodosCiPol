@@ -1,12 +1,13 @@
 name: "distill_site_metodosCiPol"
-title: "&quot;Una nueva web TuQmana&quot;"
+title: "Una nueva web TuQmana"
 description: |
-  &quot;Una nueva web TuQmana&quot;
+ Una nueva web TuQmana;
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
-    - text: "About"
+  left:
+    - text: "Sobre el TuQ"
       href: about.html
 output: distill::distill_article
